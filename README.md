@@ -7,5 +7,5 @@ TODO APP(Built using React Js)
 >JAVASCRIPT
 >React Js
 ![landing page1](/images/landing1.png)
-* In this Project the user can his list of items which he wants to do after sometimes.
+* In this Project the user can enter his list of items which he wants to do after sometimes.
 * The user can also delete the items from the todo list once its done.
